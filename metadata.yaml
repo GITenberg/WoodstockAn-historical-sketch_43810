@@ -1,0 +1,27 @@
+_repo: WoodstockAn-historical-sketch_43810
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43810-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bowen, Clarence Winthrop
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '42420'
+    url: http://www.gutenberg.org/2009/agents/42420
+description: ''
+gutenberg_issued: '2013-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43810'
+  lccn: rc01003331
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Woodstock (Conn. : Town) -- History'
+- !lcc 'F001'
+title: 'Woodstock: An historical sketch'
+url: http://www.gutenberg.org/ebooks/43810
